@@ -30,7 +30,7 @@
 
 ```yaml
 Name      : Bekkaoui Abderazzak
-Role      : Computer & Network Engineer
+Role      : Software engineer
 Location  : Casablanca, Morocco 🇲🇦
 Phone     : +212 6 51 28 61 09
 Status    : Intern @ IA PERFORMANCE / Akdital
